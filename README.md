@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Computer science student<br>🔭 Let's watch the Moon<br>🌱 Learning the C language<br>⚡ Powered by AI
+💻 Developper<br>🔭 Let's watch the Moon<br>🌱 Learning the C language<br>⚡ Powered by AI<br>⚡[StatOps available here!](https://statops.fr)
 
 
 ## 🌐 Socials:
